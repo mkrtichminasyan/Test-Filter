@@ -1,0 +1,24 @@
+/* app css stylesheet */
+
+body {
+    font-size: 25px;
+    font-family: 'Noto Serif JP', sans-serif;
+}
+
+.table-header {
+    font-size: 20px !important;
+}
+
+.main-header{
+    text-align: center;
+}
+
+.width {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.checkboxes {
+    display: flex;
+    justify-content: center;
+}
